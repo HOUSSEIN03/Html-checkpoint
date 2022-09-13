@@ -1,0 +1,43 @@
+li{
+    display: inline;
+}
+
+.title{
+    color:blueviolet;
+    text-align: center;
+ 
+}
+section > p {
+    color: cornflowerblue;
+    font-family: sans-serif;
+    font-style:italic ;
+    font-size: 15px;
+    text-decoration:underline ;
+    text-transform: uppercase;
+    font-weight: 600;
+    line-height: 40px;
+    word-spacing: 2px;
+    letter-spacing: normal;
+    padding: 5px;
+    text-align: center;
+    border: 3px dotted darkgrey;
+    padding: 50px 30px;
+    margin: 50px;
+
+}
+a:link{
+    color: aqua;
+}
+a:visited{
+    color: blueviolet;
+}
+a:active{
+    color: yellowgreen;
+}
+h1{
+    border: 1px solid rebeccapurple;
+    display:-moz-box;
+    width: 500px; 
+}
+
+
